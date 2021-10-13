@@ -16,7 +16,7 @@
      <td style="color:red;"> 0/5 </td>
   <tr>
      <td> The Elder Scrolls V : Skyrim </td>
-     <td style="color:red";> Too much to count </td>
+     <td style="color:red;"> Too much to count </td>
      <td stlye="color:green;"> 5/5 </td>
     
 <pre>  In this website is a list of a few games that i have played which i enjoyed.
