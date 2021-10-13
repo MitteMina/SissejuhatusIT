@@ -16,7 +16,7 @@
      <td style="color:red;"> 0/5 </td>
   <tr>
      <td> The Elder Scrolls V : Skyrim </td>
-     <td style="color:red;"> Too much to count </td>
+     <td style="color:red";> Too much to count </td>
      <td stlye="color:green;"> 5/5 </td>
     
 <pre>  In this website is a list of a few games that i have played which i enjoyed.
@@ -35,8 +35,10 @@ i could do whatever i wanted to do in the game. I gave a 5/5 rating to the game
 but i would say that the graphics of the game did not age well.
 </pre>
     
+<img src="cat2.jpg" alt="Pic of my cat 2" width="480" height="360">
+<img src="cat3.jpg" alt="Pic of my cat 3" width="480" height="360">
     
-
+<p><a href="https://taltech.ee/">Taltech main page.</p>
 
 
 </body>
